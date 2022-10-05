@@ -1,5 +1,5 @@
 # Hi there 👋, my name is Gonzalo López
-## My current job title is "Systems Administrator" although I feel much more identified as Full Stack Developer and fire extinguiser professional, on my daily tasks I do:
+## My current job title is "Systems Administrator" although I feel much more identified as "Full Stack Developer and fire extinguiser professional", on my daily tasks I do:
 
 * <img src="./resources/2BDB-FX5.svg" alt="PHP" title="PHP" style="color:#CC2927" height="20px"/> PHP coding and recoding
 * <img src="./resources/InSc0e1m.svg" alt="SQL Server" title="SQL Server" style="color:#CC2927" height="20px"/> SQL Server database administration
