@@ -73,4 +73,14 @@ $skill6 = new Skill();
 $skill6->set_name = 'AzureAdministration';
 $skill6->set_skillLevel = 'medium';
 $skill6->experience = 1;
+
+$skill7 = new Skill();
+$skill7->set_name = 'Virtualisation_vmWare';
+$skill7->set_skillLevel = 'medium';
+$skill7->experience = 6;
+
+$skill8 = new Skill();
+$skill8->set_name = 'WindowsServer';
+$skill8->set_skillLevel = 'high';
+$skill8->experience = 6;
 ?>
