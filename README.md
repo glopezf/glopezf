@@ -9,6 +9,10 @@
 * <img src="./resources/OBLogo.svg" alt="Algorithms" title="Algorithms" style="color:#CC2927" height="20px"/> Learning and training myself constantly
 * <img src="./resources/6TFBFju8.svg" alt="Algorithms" title="Algorithms" style="color:#CC2927" height="20px"/> Microsoft 365 Administration
 
+On all these areas I have been working for years, some of them for 10 or more years and others (the most recent ones) for less years. These experiences helped me to reach my current status of "man for everything" where you can reach me for configuring and admistering your network and also for coding an entire new system on PHP, javascript, java or even python (maybe this one with more difficulties as it was my last trained). 
+
+*I love training myself and continue growing on this huge and incredible world which is IT.*
+
 
 ```php
 
