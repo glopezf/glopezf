@@ -47,12 +47,12 @@ class Skill {
 $skill1 = new Skill();
 $skill1->set_name = 'PHP';
 $skill1->set_skillLevel = 'expert';
-$skill1->experience = 10;
+$skill1->experience = 11;
 
 $skill2 = new Skill();
 $skill2->set_name = 'JavaScript';
 $skill2->set_skillLevel = 'medium';
-$skill2->experience = 2;
+$skill2->experience = 3;
 
 $skill3 = new Skill();
 $skill3->set_name = 'jQuery';
@@ -62,17 +62,17 @@ $skill3->experience = 3;
 $skill4 = new Skill();
 $skill4->set_name = 'SQLServer';
 $skill4->set_skillLevel = 'expert';
-$skill4->experience = 10;
+$skill4->experience = 11;
 
 $skill5 = new Skill();
 $skill5->set_name = 'Microsoft365Administration';
 $skill5->set_skillLevel = 'advanced';
-$skill5->experience = 2;
+$skill5->experience = 3;
 
 $skill6 = new Skill();
 $skill6->set_name = 'AzureAdministration';
 $skill6->set_skillLevel = 'medium';
-$skill6->experience = 1;
+$skill6->experience = 2;
 
 $skill7 = new Skill();
 $skill7->set_name = 'Virtualisation_vmWare';
